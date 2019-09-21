@@ -1,7 +1,7 @@
 # Social-Media-Analytics-IMDB-dataset
 
 >### **Previous Analysis**
-> I analysed EDA from US Airline Tweets dataset, [click here](https://github.com/dlathina/Social-Media-Analytics-US-Airline-Tweets-dataset-) to preview. 
+> I made exploratory data analysis from US Airline Tweets dataset, [click here](https://github.com/dlathina/Social-Media-Analytics-US-Airline-Tweets-dataset-) to preview. 
 
 -----------------------------------------------
 >### **Overview**
